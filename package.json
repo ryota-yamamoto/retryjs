@@ -6,6 +6,9 @@
   "repository": "ssh://git@github.com/ryota-yamamoto/retryjs.git",
   "author": "Ryota Yamamoto <ryota.yama.9@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^23.6.0"
   }
